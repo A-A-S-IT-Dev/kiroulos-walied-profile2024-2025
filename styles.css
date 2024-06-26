@@ -96,6 +96,18 @@ body {
         padding: 10px;
     }
 }
+.praivte-data {
+  display: none; /* يكون المحتوى مخفياً افتراضياً */
+  text-align: center;
+  font-size: 30px;
+  
+}
+.praivte-data h3{
+  text-align: center;
+  font-weight: 550;
+  
+
+}
 footer {
     text-align: center;
     width: 100%; 
@@ -141,8 +153,10 @@ footer {
     background-color: rgb(16, 73, 243);
     color: #fff;
   }
-  h2{
+  section{
     text-align: center;
-    padding: 10px;
+    padding: 100px;
+    padding-right: 30%;
     font-size: 20px;
+    
   }
